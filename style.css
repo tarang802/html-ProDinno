@@ -1,0 +1,54 @@
+body{ 
+     font-family: "Poppins", sans-serif;
+    margin: 50px 50px 0 50px;
+    background-color:rgb(215, 215, 140);
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+}
+.logo{
+    width: 50rem;
+    padding: 0%;
+    
+}
+.special{
+    background-color:;
+    color: rgb(0, 0, 0);
+    font-size: 4rem;
+    padding: 0%;
+    text-align: center;
+    
+}
+.LOGO1
+{
+    color:  rgb(33, 2, 2);
+    text-align: center;
+    font-size: 2rem;
+}
+.main div{
+    text-align: center;;
+}
+.second-heading{
+    background-color:chocolate
+}
+.logo3{
+ color: rgb(37, 1, 1);
+ font-size: 2rem;
+ margin: 0%;
+ border: 0%;
+ padding: 0%;
+
+}
+.container {
+    padding: 10px;
+    background-color:chocolate;
+    display: inline-flex;
+    gap: 2rem;
+    height:4rem;
+    width: 100%;
+  }
+  .brochure{
+    font-size:25px;
+    background-color:chocolate;
+  }
+  
